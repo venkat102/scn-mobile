@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: primaryColor,
       ),
-      home: const Login(),
+      home: Login(),
     );
   }
 }
